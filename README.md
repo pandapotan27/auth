@@ -84,3 +84,6 @@ AUTHENTICATION LOGIN
 }
 
 ![image](https://github.com/user-attachments/assets/2897f3d5-6403-483a-b326-84d19c7a50c8)
+
+
+Give the endpoint to the mobile development team
