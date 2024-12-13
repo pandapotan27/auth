@@ -45,6 +45,7 @@ AUTHTENTICATION REGISTER
 2. Input Url Endpoint
 3. Body, Raw Type JSON
 4. Json Test 
+
 {
   "username": "user",
   "email": "user@gmail.com",
@@ -65,11 +66,13 @@ AUTHENTICATION LOGIN
 2. Input Url Endpoint
 3. Body, Raw Type JSON
 4. JSON test 
+
 {
   "email": "user@gmail.com",
   "password": "user123"
 }
 5. Response Success
+
 {
     "error": false,
     "message": "Success",
