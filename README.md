@@ -2,13 +2,13 @@
 
 TUTORIAL DEPLOYING IN GOOGLE CLOUD
 
-A. Create SQL (MYSQL) in Google Cloud
+Create SQL (MYSQL) in Google Cloud
   - Create Database auth-api-db
   - Konfigurasi Istance
-B. Create User Databases
-C. Create Service Accounts
-D. Write .env connection information
-E. Create Table API
+Create User Databases
+Create Service Accounts
+Write .env connection information
+Create Table API
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
@@ -17,26 +17,26 @@ CREATE TABLE users (
   password VARCHAR(255) NOT NULL
 );
 
-F. Create VM Instancec in Compute Engine
-G. Open SSH
-H. Clone Repository Github in SSH
-I. Install Library 
+Create VM Instancec in Compute Engine
+Open SSH
+Clone Repository Github in SSH
+Install Library 
 
-Framework Express:
+
 - npm install express
-MySQL Driver:
+
 - npm install mysql2
-Body Parser:
+
 - npm install body-parser
-Dotenv untuk environment variables:
+
 - npm install dotenv
-bcryptjs untuk hashing password:
+
 - npm install bcryptjs
-Jsonwebtoken untuk token:
+
 - npm install jsonwebtoken
 
-J. Run the Node app.js server
-H. Write the Endpoint plus the external IP of the VM instance
+Run the Node app.js server
+Write the Endpoint plus the external IP of the VM instance
 
 TEST ENDPOINT IN POSTMAN
 
