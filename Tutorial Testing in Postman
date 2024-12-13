@@ -2,7 +2,7 @@ TEMPLATE TEXT JSON FOR TESTING IN POSTMAN
 
 AUTHTENTICATION REGISTER 
 1. Method POST
-2. Url : http://34.101.253.110:3000/api/auth/register
+2. Input Url Endpoint
 3. Body, Raw Type JSON
 4. Json Test 
 {
@@ -18,7 +18,7 @@ AUTHTENTICATION REGISTER
 
 AUTHENTICATION LOGIN 
 1. Method POST
-2. Url : http://34.101.253.110:3000/api/auth/login
+2. Input Url Endpoint
 3. Body, Raw Type JSON
 4. JSON test 
 {
